@@ -1,2 +1,5 @@
 # AutoCV-Pro
 Learning project for AI-driven resume generator
+The AI-Based Resume Generator is a smart web application designed to help users quickly create professional resumes without needing advanced design or writing skills. Users simply enter their personal information, education, work experience, skills, and a job description they are applying for. The application then uses artificial intelligence (AI) to understand the job requirements and customize the resume content to better match them. This increases the chances of getting noticed by recruiters or passing applicant tracking systems (ATS). Once all the details are filled in, users can instantly generate and download a polished PDF resume. The project combines powerful backend tools like Java with Spring Boot and integrates the OpenAI API for smart suggestions, while the user-friendly interface is built using React.js. It's especially useful for students, freshers, and professionals who want to make a strong first impression with a well-tailored resume.
+
+
